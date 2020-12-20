@@ -1,0 +1,6 @@
+[submodule "src/app1"]
+	path = src/app1
+	url = https://github.com/mrk9676/App1.git
+[submodule "src/app2"]
+	path = src/app2
+	url = https://github.com/mrk9676/App2.git
